@@ -59,7 +59,8 @@ app.put('/putdata?:id',(req,res)=>{
     }) 
 })
 
-app.listen(8080);
+
+app.listen(8000);
 
 
     
